@@ -1,0 +1,15 @@
+Bảng Video: Bảng này sẽ chứa thông tin về các video được tải lên, bao gồm tiêu đề, mô tả, ngày đăng, số lượt xem, số lượt thích, tên người đăng, v.v.
+
+Bảng Người dùng (User): Bảng này sẽ chứa thông tin về người dùng, bao gồm tên, email, mật khẩu (đã được mã hóa), ngày tạo tài khoản, v.v.
+
+Bảng Bình luận (Comments): Bảng này sẽ lưu trữ các bình luận của người dùng về từng video, bao gồm nội dung bình luận, ngày đăng, và thông tin người đăng bình luận.
+
+Bảng Thẻ (Tags): Bảng này sẽ chứa thông tin về các thẻ (tags) được gắn liên quan đến từng video. Mỗi video có thể có nhiều thẻ, và các video có thể chia sẻ cùng một thẻ.
+
+Bảng Đánh dấu (Bookmarks): Bảng này sẽ lưu trữ thông tin về các video mà người dùng đã đánh dấu hoặc lưu vào danh sách xem sau.
+
+Bảng Lượt xem (Views): Bảng này sẽ ghi lại thông tin về lượt xem của mỗi video, bao gồm thông tin về người dùng đã xem và thời điểm xem.
+
+Bảng Lượt thích (Likes/Dislikes): Bảng này sẽ lưu trữ thông tin về các lượt thích và không thích của người dùng đối với từng video.
+
+Bảng Đăng ký kênh (Subscriptions): Nếu ứng dụng cho phép người dùng đăng ký kênh của những người đăng video, thì bảng này sẽ ghi lại thông tin về việc đăng ký và huỷ đăng ký kênh của người dùng.
